@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <group
+        android:name="first"
+        android:pivotX="30"
+        android:pivotY="0">
+
+        <path
+            android:fillColor="@color/circle_color"
+            android:pathData="@string/first"/>
+
+    </group>
+
+    <path
+        android:name="two"
+        android:fillColor="#000000"
+        android:pathData="@string/two"/>
+
+    <path
+        android:name="three"
+        android:fillColor="#000000"
+        android:pathData="@string/three"/>
+
+
+    <path
+        android:name="three"
+        android:fillColor="#000"
+        android:pathData="@string/three"/>
+
+    <path
+        android:name="four"
+        android:fillColor="#000"
+        android:pathData="@string/four"/>
+
+    <group
+        android:name="last"
+        android:pivotX="60"
+        android:pivotY="0" >
+
+        <path
+            android:fillColor="@color/circle_color"
+            android:pathData="@string/last"/>
+    </group>
+
+</vector>

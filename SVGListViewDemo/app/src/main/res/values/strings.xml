@@ -1,0 +1,198 @@
+<resources>
+    <string name="app_name">SVGListViewDemo</string>
+    <string name="face_circle">
+        M50,50
+        m-48,0
+        a48,48 0 1,1 96,0
+        a48,48 0 1,1 -96,0
+    </string>
+    <string name="left_eye">
+        M30,35
+        m-7,0
+        a7,7 0 1,1 14,0
+        a7,7 0 1,1 -14,0
+    </string>
+    <string name="right_eye">
+        M70,35
+        m-7,0
+        a7,7 0 1,1 14,0
+        a7,7 0 1,1 -14,0
+    </string>
+    <string name="mouth_happy">
+        M30,60
+        q20,20 40,0
+    </string>
+    <string name="mouth_sad">
+        M30,60
+        q20,-20 40,0
+    </string>
+
+    <string name="first">
+        M30,50
+        m-3,0
+        a3,3 0 1,1 6,0
+        a3,3 0 1,1 -6,0
+    </string>
+    <string name="two">
+        M36,50
+        m-3,0
+        a3,3 0 1,1 6,0
+        a3,3 0 1,1 -6,0
+    </string>
+    <string name="three">
+        M42,50
+        m-3,0
+        a3,3 0 1,1 6,0
+        a3,3 0 1,1 -6,0
+    </string>
+    <string name="four">
+        M48,50
+        m-3,0
+        a3,3 0 1,1 6,0
+        a3,3 0 1,1 -6,0
+    </string>
+    <string name="last">
+        M54,50
+        m-3,0
+        a3,3 0 1,1 6,0
+        a3,3 0 1,1 -6,0
+    </string>
+
+    <string name="left_path">
+        M20,30
+        m-5,0
+        a5,5 0 1,1 10,0
+        a5,5 0 1,1 -10,0
+    </string>
+    <string name="right_path">
+        M100,30
+        m-5,0
+        a5,5 0 1,1 10,0
+        a5,5 0 1,1 -10,0
+    </string>
+
+    <string name="path_search">
+        M141,17
+        A9,9 0 1,1 142,16
+        L149,23
+    </string>
+
+    <string name="svg_one_1">
+        M20,30
+        L100,30
+        M100,30
+        L100,90
+        M100,90
+        L20,90
+        M20,90
+        L20,30
+    </string>
+    <string name="svg_one_2">
+        M100,30
+        L180,30
+        M180,30
+        L180,90
+        M180,90
+        L100,90
+        M100,90
+        L100,30
+    </string>
+    <string name="svg_one_3">
+        M100,120
+        L180,120
+        M180,120
+        L180,180
+        M180,180
+        L100,180
+        M100,180
+        L100,120
+    </string>
+    <string name="svg_one_4">
+        M20,120
+        L100,120
+        M100,120
+        L100,180
+        M100,180
+        L20,180
+        M20,180
+        L20,120
+    </string>
+
+    <string name="svg_two_1">
+        M120,30
+        L180,30
+    </string>
+    <string name="svg_two_2">
+        M30,30
+        L90,30
+    </string>
+    <string name="svg_two_3">
+        M30,120
+        L90,120
+    </string>
+    <string name="svg_two_4">
+        M120,120
+        L180,120
+    </string>
+
+    <string name="svg_three_1">
+        M120,60
+        L180,60
+    </string>
+    <string name="svg_three_2">
+        M30,60
+        L90,60
+    </string>
+    <string name="svg_three_3">
+        M30,150
+        L90,150
+    </string>
+    <string name="svg_three_4">
+        M120,150
+        L180,150
+    </string>
+
+    <string name="svg_four_1">
+        M120,90
+        L180,90
+    </string>
+    <string name="svg_four_2">
+        M30,90
+        L90,90
+    </string>
+    <string name="svg_four_3">
+        M30,180
+        L90,180
+    </string>
+    <string name="svg_four_4">
+        M120,180
+        L180,180
+    </string>
+
+    <string name="svg_five_1_2">
+        M20,120
+        L180,120
+    </string>
+    <string name="svg_five_3_4">
+        M20,30
+        L180,30
+    </string>
+
+    <string name="svg_six_1_2">
+        M20,150
+        L180,150
+    </string>
+    <string name="svg_six_3_4">
+        M20,60
+        L180,60
+    </string>
+
+    <string name="svg_seven_1_2">
+        M20,180
+        L180,180
+    </string>
+    <string name="svg_seven_3_4">
+        M20,90
+        L180,90
+    </string>
+</resources>

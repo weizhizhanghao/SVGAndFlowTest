@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="android.test.mvp.com.svglistviewdemo.MainActivity">
+
+   <Button
+       android:onClick="toSVG"
+       android:text="toSVG"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="toSmile"
+        android:text="toSmile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="toPendulum"
+        android:text="toPendulum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="toSearch"
+        android:text="toSearch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="toTest"
+        android:text="toTest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

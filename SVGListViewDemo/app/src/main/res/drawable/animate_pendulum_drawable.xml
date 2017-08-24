@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/pendulum_path">
+
+    <target
+        android:animation="@animator/pendulum_left"
+        android:name="first"/>
+
+    <target
+        android:animation="@animator/pendulum_right"
+        android:name="last"/>
+
+</animated-vector>
